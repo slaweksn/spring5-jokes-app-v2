@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>org.sx.was</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>0.0.9-SNAPSHOT</version>
+	<version>0.0.9</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -19,7 +19,7 @@
 		<connection>scm:git:git://github.com/slaweksn/spring5-jokes-app-v2.git</connection>
 		<url>https://github.com/slaweksn/spring5-jokes-app-v2</url>
 		<developerConnection>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.9</tag>
 	</scm>
 	<dependencies>
 		<dependency>
