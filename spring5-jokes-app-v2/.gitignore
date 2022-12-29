@@ -34,3 +34,4 @@ build/
 /EMBEDDED/
 /pom.xml.releaseBackup
 /release.properties
+/.gitignore

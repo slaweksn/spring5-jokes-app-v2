@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>org.sx.was</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -64,33 +64,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	
-	<profiles>
-		<profile>
-			<id>releases</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.sonatype.plugins</groupId>
-						<artifactId>nexus-staging-maven-plugin</artifactId>
-						<version>1.5.1</version>
-						<executions>
-							<execution>
-								<id>default-deploy</id>
-								<phase>deploy</phase>
-								<goals>
-									<goal>deploy</goal>
-								</goals>
-							</execution>
-						</executions>
-						<configuration>
-							<serverId>nexus-releases</serverId>
-							<nexusUrl>http://localhost:8081/nexus/</nexusUrl>
-							<skipStaging>true</skipStaging>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-	</profiles>
+
 </project>
