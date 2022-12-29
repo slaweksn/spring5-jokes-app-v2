@@ -9,15 +9,15 @@
 	</parent>
 	<groupId>org.sx.was</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>0.0.12</version>
+	<version>0.0.13-SNAPSHOT</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<scm>
-		<connection>scm:git:git://github.com/slaweksn/spring5-jokes-app-v2.git</connection>
-		<url>https://github.com/slaweksn/spring5-jokes-app-v2.git</url>
+		<url>https://github.com/slaweksn/spring5-jokes-app-v2</url>
+		<connection>scm:git:git://github.com:slaweksn/spring5-jokes-app-v2.git</connection>
 		<developerConnection>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</developerConnection>
 		<tag>v0.0.12</tag>
 	</scm>
