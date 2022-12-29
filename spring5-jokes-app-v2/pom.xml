@@ -16,8 +16,8 @@
 		<java.version>17</java.version>
 	</properties>
 	<scm>
-		<connection>scm:git:https://github.com/slaweksn/spring5-jokes-app-v2.git</connection>
-		<url>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</url>
+		<connection>scm:git:git://github.com/slaweksn/spring5-jokes-app-v2.git</connection>
+		<url>https://github.com/slaweksn/spring5-jokes-app-v2</url>
 		<developerConnection>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</developerConnection>
 		<tag>v0.0.6</tag>
 	</scm>
