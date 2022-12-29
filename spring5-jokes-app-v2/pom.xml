@@ -19,7 +19,7 @@
 		<connection>scm:git:https://github.com/slaweksn/spring5-jokes-app-v2.git</connection>
 		<url>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</url>
 		<developerConnection>scm:git:git@github.com:slaweksn/spring5-jokes-app-v2.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.2</tag>
 	</scm>
 	<dependencies>
 		<dependency>
