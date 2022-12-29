@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>org.sx.was</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>0.0.9</version>
+	<version>0.0.10-SNAPSHOT</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
